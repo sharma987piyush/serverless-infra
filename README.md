@@ -41,7 +41,7 @@
 
 <h3>1️⃣ Clone the Repo</h3>
 
-<pre><code>git clone https://github.com/your-username/aws-terraform-infra.git
+<pre><code>git clone git@github.com:sharma987piyush/serverless-infra.git
 cd aws-terraform-infra
 </code></pre>
 
